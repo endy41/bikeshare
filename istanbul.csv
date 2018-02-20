@@ -1,0 +1,69 @@
+Start Time,End Time,Trip Duration,Start Station,End Station,User Type,Gender,Birth Year
+2017-01-01 00:00:36,2017-01-01 00:06:32,356,Canal St & Taylor St,Canal St & Monroe St (*),Customer,,
+2017-01-01 00:02:54,2017-01-01 00:08:21,327,Larrabee St & Menomonee St,Sheffield Ave & Kingsbury St,Subscriber,Male,1984.0
+2017-01-01 00:06:06,2017-01-01 00:18:31,745,Orleans St & Chestnut St (NEXT Apts),Ashland Ave & Blackhawk St,Subscriber,Male,1985.0
+2017-01-01 00:07:28,2017-01-01 00:12:51,323,Franklin St & Monroe St,Clinton St & Tilden St,Subscriber,Male,1990.0
+2017-01-01 00:07:57,2017-01-01 00:20:53,776,Broadway & Barry Ave,Sedgwick St & North Ave,Subscriber,Male,1990.0
+2017-01-01 00:10:44,2017-01-01 00:21:27,643,State St & Kinzie St,Wells St & Polk St,Subscriber,Male,1970.0
+2017-01-01 00:11:34,2017-01-01 00:23:47,733,Wabash Ave & Wacker Pl,Clinton St & Tilden St,Subscriber,Male,1986.0
+2017-02-01 00:14:57,2017-02-01 00:26:22,685,Daley Center Plaza,Canal St & Monroe St (*),Customer,,
+2017-01-01 00:15:03,2017-01-01 00:26:28,685,Daley Center Plaza,Canal St & Monroe St (*),Customer,,
+2017-01-01 00:17:01,2017-01-01 00:29:49,768,Dayton St & North Ave,Ogden Ave & Chicago Ave,Customer,,
+2017-03-01 00:37:19,2017-01-01 11:03:34,38781,Wilton Ave & Diversey Pkwy,Halsted St & Wrightwood Ave,Subscriber,Female,1988.0
+2017-03-01 00:37:19,2017-01-01 00:31:05,757,Canal St & Madison St,LaSalle St & Illinois St,Customer,,
+2017-03-01 00:37:19,2017-01-01 00:21:47,177,Theater on the Lake,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1991.0
+2017-03-01 00:37:19,2017-01-01 00:29:13,332,Halsted St & Maxwell St,Halsted St & 18th St,Subscriber,Male,1984.0
+2017-03-01 00:37:19,2017-01-01 00:39:53,846,Ravenswood Ave & Lawrence Ave,Clarendon Ave & Gordon Ter,Subscriber,Female,1987.0
+2017-03-01 00:37:19,2017-01-01 00:43:23,1056,Clark St & Congress Pkwy,Wolcott Ave & Polk St,Subscriber,Male,1984.0
+2017-03-01 00:37:19,2017-01-01 00:39:40,799,Ravenswood Ave & Lawrence Ave,Clarendon Ave & Gordon Ter,Subscriber,Male,1987.0
+2017-03-01 00:37:19,2017-01-01 00:42:59,938,Millennium Park,Michigan Ave & 18th St,Subscriber,Male,1991.0
+2017-03-01 00:37:19,2017-01-01 00:42:44,916,Millennium Park,Michigan Ave & 18th St,Subscriber,Female,1990.0
+2017-03-01 00:37:19,2017-01-01 00:31:13,208,Damen Ave & Chicago Ave,Damen Ave & Division St,Subscriber,Male,1982.0
+2017-03-01 00:37:19,2017-01-01 00:33:46,354,Paulina Ave & North Ave,Damen Ave & Division St,Subscriber,Female,1982.0
+2017-01-01 00:30:07,2017-01-01 00:34:32,265,Wilton Ave & Diversey Pkwy,Halsted St & Wrightwood Ave,Customer,,
+2017-01-01 00:30:10,2017-01-01 01:10:34,2424,Lake Shore Dr & Ohio St,Broadway & Barry Ave,Subscriber,Female,1985.0
+2017-01-01 00:32:58,2017-01-01 00:41:59,541,LaSalle St & Illinois St,State St & Kinzie St,Customer,,
+2017-01-01 00:33:39,2017-01-01 00:41:09,450,Greenview Ave & Jarvis Ave,Clark St & Lunt Ave,Subscriber,Female,1979.0
+2017-01-01 00:34:23,2017-01-01 00:40:56,393,Greenview Ave & Jarvis Ave,Eastlake Ter & Rogers Ave,Subscriber,Male,1961.0
+2017-03-01 00:35:23,2017-01-01 01:05:22,1799,McClurg Ct & Illinois St,Fairbanks Ct & Grand Ave,Customer,,
+2017-01-01 00:35:26,2017-01-01 00:47:54,748,Larrabee St & Menomonee St,Clark St & Wrightwood Ave,Subscriber,Male,1989.0
+2017-01-01 00:35:32,2017-01-01 00:48:07,755,Larrabee St & Menomonee St,Clark St & Wrightwood Ave,Subscriber,Female,1989.0
+2017-01-01 00:35:34,2017-01-01 01:05:26,1792,McClurg Ct & Illinois St,Fairbanks Ct & Grand Ave,Customer,,
+2017-01-01 11:03:34,2017-01-01 00:48:43,701,Clark St & Lake St,McClurg Ct & Illinois St,Subscriber,Male,1986.0
+2017-01-01 11:03:34,2017-01-01 01:05:22,1683,McClurg Ct & Illinois St,Fairbanks Ct & Grand Ave,Customer,,
+2017-01-01 11:03:34,2017-01-01 00:50:41,782,Damen Ave & Charleston St,Kedzie Ave & Milwaukee Ave,Subscriber,Male,1967.0
+2017-01-01 11:03:34,2017-01-01 00:50:26,657,Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,Subscriber,Male,1985.0
+2017-01-01 11:03:34,2017-01-01 00:48:55,539,Wells St & Evergreen Ave,Larrabee St & Menomonee St,Subscriber,Male,1954.0
+2017-01-01 11:03:34,2017-01-01 00:46:32,386,Ritchie Ct & Banks St,Clark St & Lincoln Ave,Subscriber,Female,1968.0
+2017-01-01 11:03:34,2017-01-01 00:46:32,378,Ritchie Ct & Banks St,Clark St & Lincoln Ave,Subscriber,Male,1964.0
+2017-01-01 11:03:34,2017-01-01 00:51:16,663,Kingsbury St & Erie St,Ashland Ave & Augusta Blvd,Subscriber,Male,1980.0
+2017-01-01 11:03:34,2017-01-01 00:53:24,896,Broadway & Argyle St,Campbell Ave & Montrose Ave,Subscriber,Male,1986.0
+2017-01-01 11:03:34,2017-01-01 01:02:15,1246,Streeter Dr & Grand Ave,Ashland Ave & Division St,Subscriber,Male,1980.0
+2017-01-01 11:03:34,2017-01-01 00:44:30,88,Financial Pl & Congress Pkwy,Wells St & Polk St,Subscriber,Male,1975.0
+2017-01-01 11:03:34,2017-01-01 00:52:19,552,State St & Kinzie St,McClurg Ct & Illinois St,Customer,,
+2017-01-01 11:03:34,2017-01-01 01:09:26,1396,Wabash Ave & Grand Ave,Western Ave & Walton St,Customer,,
+2017-01-01 11:03:34,2017-01-01 00:57:22,619,Racine Ave & Fullerton Ave,Halsted St & Blackhawk St (*),Subscriber,Male,1993.0
+2017-01-01 11:03:34,2017-01-01 00:58:09,370,Halsted St & Diversey Pkwy,Halsted St & Roscoe St,Subscriber,Male,1966.0
+2017-01-01 11:03:34,2017-01-01 01:10:51,882,McClurg Ct & Illinois St,Millennium Park,Customer,,
+2017-01-01 11:03:34,2017-01-01 01:14:40,725,Southport Ave & Wellington Ave,Marshfield Ave & Cortland St,Subscriber,Male,1992.0
+2017-01-01 11:03:34,2017-01-01 01:10:50,404,Drake Ave & Fullerton Ave,California Ave & Milwaukee Ave,Subscriber,Male,1970.0
+2017-01-01 11:03:34,2017-01-01 01:10:42,333,Lincoln Ave & Roscoe St,Oakley Ave & Roscoe St,Subscriber,Female,1979.0
+2017-01-01 11:03:34,2017-01-01 01:13:36,288,Orleans St & Ohio St,Desplaines St & Kinzie St,Subscriber,Male,1975.0
+2017-01-01 11:03:34,2017-01-01 01:34:25,1447,Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,Subscriber,Female,1970.0
+2017-01-01 11:03:34,2017-01-01 01:29:21,1090,California Ave & Milwaukee Ave,Sheffield Ave & Fullerton Ave,Subscriber,Male,1970.0
+2017-01-01 11:03:34,2017-01-01 01:16:36,219,Pine Grove Ave & Waveland Ave,Pine Grove Ave & Irving Park Rd,Subscriber,Female,1952.0
+2017-01-01 11:03:34,2017-01-01 01:29:05,920,Millennium Park,Wabash Ave & Roosevelt Rd,Customer,,
+2017-01-01 11:03:34,2017-01-01 01:44:49,1805,Kedzie Ave & Milwaukee Ave,Ogden Ave & Race Ave,Customer,,
+2017-01-01 11:03:34,2017-01-01 01:23:54,539,Broadway & Sheridan Rd,Broadway & Belmont Ave,Subscriber,Male,1967.0
+2017-01-01 11:03:34,2017-01-01 01:20:48,348,Southport Ave & Roscoe St,Southport Ave & Irving Park Rd,Subscriber,Male,1990.0
+2017-01-01 11:03:34,2017-01-01 01:20:39,333,Southport Ave & Roscoe St,Southport Ave & Irving Park Rd,Subscriber,Female,1990.0
+2017-01-01 11:03:34,2017-01-01 01:26:03,315,Western Ave & Division St,Damen Ave & Augusta Blvd,Subscriber,Male,1972.0
+2017-01-01 11:03:34,2017-01-01 01:35:11,775,Fairbanks Ct & Grand Ave,Wabash Ave & Wacker Pl,Customer,,
+2017-01-01 11:03:34,2017-01-01 01:30:13,415,Racine Ave & Belmont Ave,Damen Ave & Wellington Ave,Subscriber,Male,1983.0
+2017-01-01 11:03:34,2017-01-01 01:39:08,840,Western Ave & Division St,California Ave & Milwaukee Ave,Subscriber,Female,1982.0
+2017-01-01 11:03:34,2017-01-01 01:27:22,137,Halsted St & Dickens Ave,Bissell St & Armitage Ave,Subscriber,Male,1985.0
+2017-01-01 11:03:34,2017-01-01 01:27:10,125,Halsted St & Dickens Ave,Bissell St & Armitage Ave,Subscriber,Female,1985.0
+2017-01-01 11:03:34,2017-01-01 01:31:24,249,Peoria St & Jackson Blvd,Racine Ave & Randolph St,Subscriber,Male,1986.0
+2017-01-01 11:03:34,2017-01-01 01:44:01,773,Sangamon St & Washington Blvd (*),Ogden Ave & Roosevelt Rd,Subscriber,Male,1977.0
+2017-01-01 11:03:34,2017-01-01 01:37:23,288,Sheffield Ave & Fullerton Ave,Racine Ave & Wrightwood Ave,Subscriber,Female,1958.0
+2017-01-01 11:03:34,2017-01-01 01:58:40,1513,Damen Ave & Madison St,Damen Ave & Melrose Ave,Subscriber,Male,1970.0
